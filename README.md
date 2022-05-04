@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eluzon853
 - 👀 I’m interested in networking & security
 - 🌱 I’m currently learning CCIE Enterprise
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on CCIE Enterprise Infrastructure
 - 📫 How to reach me eranluzon8@gmail.com
 
 <!---
